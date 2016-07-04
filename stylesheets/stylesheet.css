@@ -122,15 +122,15 @@ a.button {
   background: -ms-linear-gradient(top,  #ffffff 0%,#ffffff 100%); /* IE10+ */
   background: linear-gradient(top,  #ffffff 0%,#ffffff 100%); /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
-  border-top: solid 1px #cbcbcb;
-  border-right: solid 4px #b7b7b7;
-  border-bottom: solid 4px #b3b3b3;
-  border-left: solid 4px #b7b7b7;
+  border-top: solid 4px #000000;
+  border-right: solid 4px #000000;
+  border-bottom: solid 4px #000000;
+  border-left: solid 4px #000000;
   border-radius: 50px;
   -webkit-box-shadow: 10px 10px 5px #888;
   -moz-box-shadow: 10px 10px 5px #888;
   box-shadow: 0px 1px 5px #e8e8e8;
-  -moz-border-radius: 50px;
+  -moz-border-radius: 40px;
   -webkit-border-radius: 50px;
 }
 a.button:hover {
