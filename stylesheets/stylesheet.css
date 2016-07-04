@@ -149,6 +149,8 @@ a.button:hover {
 }
 
 a.button span {
+	top:50%;
+	
   display: block;
   height: 100px;
   padding-left: 120px;
