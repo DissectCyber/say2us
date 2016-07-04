@@ -114,13 +114,13 @@ a.button {
   line-height: 80px;
   color: #303030;
   background: #ffffff; /* Old browsers */
-  background: -moz-linear-gradient(top,  #ffffff 0%, #f2f2f2 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fdfdfd), color-stop(100%,#f2f2f2)); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* IE10+ */
-  background: linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
+  background: -moz-linear-gradient(top,  #ffffff 0%, #ffffff 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #ffffff 0%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #ffffff 0%,#ffffff 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #ffffff 0%,#ffffff 100%); /* IE10+ */
+  background: linear-gradient(top,  #ffffff 0%,#ffffff 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
   border-top: solid 1px #cbcbcb;
   border-right: solid 1px #b7b7b7;
   border-bottom: solid 1px #b3b3b3;
@@ -150,7 +150,7 @@ a.button:hover {
 a.button span {
   display: block;
   height: 80px;
-  padding-left: 50px;
+  padding-left: 150px;
 }
 
 #download-zip span {
