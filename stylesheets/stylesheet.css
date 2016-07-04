@@ -122,10 +122,10 @@ a.button {
   background: -ms-linear-gradient(top,  #ffffff 0%,#ffffff 100%); /* IE10+ */
   background: linear-gradient(top,  #ffffff 0%,#ffffff 100%); /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
-  border-top: solid 4px #000000;
-  border-right: solid 4px #000000;
-  border-bottom: solid 4px #000000;
-  border-left: solid 4px #000000;
+  border-top: solid 2px #000000;
+  border-right: solid 2px #000000;
+  border-bottom: solid 2px #000000;
+  border-left: solid 2px #000000;
   border-radius: 50px;
   -webkit-box-shadow: 10px 10px 5px #888;
   -moz-box-shadow: 10px 10px 5px #888;
