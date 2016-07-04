@@ -104,13 +104,13 @@ header h2 {
 
 a.button {
   display: block;
-  float: left;
-  width: 179px;
+  float: auto;
+  width: 300px;
   padding: 12px 8px 12px 8px;
   margin-right: 14px;
   font-size: 15px;
   font-weight: bold;
-  line-height: 25px;
+  line-height: 80px;
   color: #303030;
   background: #fdfdfd; /* Old browsers */
   background: -moz-linear-gradient(top,  #fdfdfd 0%, #f2f2f2 100%); /* FF3.6+ */
@@ -148,7 +148,7 @@ a.button:hover {
 
 a.button span {
   display: block;
-  height: 23px;
+  height: 80px;
   padding-left: 50px;
 }
 
